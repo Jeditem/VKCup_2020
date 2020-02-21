@@ -4,4 +4,5 @@
 
 TODO
 допилить grid search и визуализацию
-раскилдать идеи из VKCup_advertising.ipynb
+
+раскидать идеи из VKCup_advertising.ipynb
